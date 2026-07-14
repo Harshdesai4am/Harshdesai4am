@@ -1,24 +1,234 @@
-# 💫 About Me:
-I am a results-driven Mobile Application Developer passionate about translating complex requirements into intuitive, high-performance mobile experiences. With a strong foundation in native Android development dating back to 2018 and over 3 years of specialized professional experience in React Native, I build scalable, cross-platform applications that users love.<br><br>My technical wheelhouse includes seamless API integrations, Firebase, push notification architecture, secure social authentication, and extensive third-party tool implementation. Beyond the code, I am deeply focused on optimizing app performance and bringing modern UI/UX designs to life. I thrive in dynamic environments where I can tackle complex technical challenges, adopt emerging technologies, and contribute to the delivery of top-tier mobile products.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Harsh Desai
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harsh Desai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.desai_95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh Desai) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harsh Desai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshdesai4am@gmail.com) 
+### 🚀 Senior React Native Developer | Android Developer | Mobile App Engineer
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshdesai4am&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harshdesai4am&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdesai4am&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=React+Native+Developer;Android+Developer;Cross+Platform+Expert;Firebase+%7C+GraphQL+%7C+Redux;Building+High+Performance+Mobile+Apps" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshdesai4am&limit=5&theme=default&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harshdesai4am&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+💙 Passionate Mobile Application Developer from Ahmedabad, India
+
+📱 6+ Years of Mobile Development Experience
+
+⚛️ React Native • Android • iOS
+
+🔥 Love building scalable and high-performance mobile applications.
+
+🌱 Currently exploring
+
+- GraphQL
+- CI/CD
+- Fastlane
+- GitHub Actions
+- OTA Updates
+- Mobile Performance
+
+---
+
+# 🛠 Tech Stack
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
+
+### Backend
+
+Firebase • GraphQL • REST API • Socket.IO
+
+### DevOps
+
+Git • GitHub • GitHub Actions • Fastlane • Postman
+
+---
+
+# 📊 Skill Level
+
+```text
+React Native      ████████████████████ 98%
+
+Android           ██████████████████ 95%
+
+Firebase          █████████████████ 92%
+
+Redux             ████████████████ 90%
+
+TypeScript        ███████████████ 88%
+
+GraphQL           █████████████ 80%
+
+CI/CD             ███████████ 75%
+```
+
+---
+
+# 📱 Featured Projects
+
+## 🚖 StartARide
+
+Cab Booking Platform
+
+✅ Live Driver Tracking
+
+✅ Google Maps
+
+✅ Push Notifications
+
+✅ Payments
+
+✅ Real-time Location
+
+---
+
+## 🚗 ShareCarRide
+
+Shared Ride Platform
+
+✅ Route Matching
+
+✅ Live Tracking
+
+✅ Firebase
+
+---
+
+## 💬 SpeakBlock
+
+Business Communication Platform
+
+✅ Chat
+
+✅ Voice Calling
+
+✅ Meetings
+
+✅ Scheduling
+
+---
+
+## 🍔 SelfServe
+
+Restaurant Ordering System
+
+✅ Customer App
+
+✅ Delivery App
+
+✅ Live Order Tracking
+
+---
+
+## 🚙 RentPit
+
+Vehicle Rental Platform
+
+---
+
+## 📚 Hadi Library
+
+Digital Library Application
+
+---
+
+## ❤️ KolakNot
+
+Privacy-first Dating App
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+---
+
+# 🏆 Achievements
+
+🏅 6+ Years Experience
+
+📱 12+ Mobile Applications Delivered
+
+🚀 Android & iOS Expert
+
+⚡ Firebase Specialist
+
+💬 Real-time Chat Applications
+
+🗺 Google Maps Integration
+
+🔐 Authentication Systems
+
+📦 App Store & Play Store Deployment
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/harsh-desai-156886a3">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:Harshdesai4am@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Great mobile apps are built with clean architecture, scalable code, and an exceptional user experience."**
+
+⭐ If you like my work, consider following me and starring my repositories.
